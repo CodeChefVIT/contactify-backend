@@ -78,7 +78,7 @@ Follow these steps to set up and run the Contact File Backend Service locally:
         - The service will be running on `http://localhost:5000`.
 
 3. Frontend Installation
-    - Follow the steps on https://github.com/CodeChefVIT/contactify-fe to set up the frontend service.
+    - Follow the steps on https://github.com/CodeChefVIT/contactify-frontend to set up the frontend service.
 
 ## ✨ Features
 
@@ -110,7 +110,7 @@ https://documenter.getpostman.com/view/30463796/2s9Ye8euN8
 
 ## 📝 Checkout:
 
--   Contactify Frontend: [https://github.com/CodeChefVIT/contactify-fe](https://github.com/CodeChefVIT/contactify-backend)
+-   Contactify Frontend: [https://github.com/CodeChefVIT/contactify-frontend](https://github.com/CodeChefVIT/contactify-frontend)
 
 ## 🚀 Contributors
 
