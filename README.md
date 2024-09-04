@@ -52,17 +52,28 @@ Follow these steps to set up and run the Contact File Backend Service locally:
             ```
         - The service will be running on `http://localhost:5000` by default.
 
-2. Docker Installation
+2. Docker Installation (Prerequisites : Docker)
 
-    1. **Pull image**
-        - Pull the docker image from Docker Hub
+    1. **Clone the Repository**
+
+        - Clone the repository.
             ```bash
-            docker pull shivamgutgutia/contactify:latest
+            git clone https://github.com/CodeChefVIT/contactify-backend
             ```
-    2. **Run Container**
-        - Create and run a container using the image pulled
+        - Navigate to the cloned directory and run
             ```bash
-            docker run -d -p 5000:5000 shivamgutgutia/contactify:latest
+            cd contactify-backend/backend
+            ```
+    2. **Configuration**
+
+        - Create a `.env` file in the current directory.
+        - Define environment variables such as:
+            - `PORT=5000`
+
+    2. **Build and Run Container**
+        - Create and run the container
+            ```bash
+            docker-compose up --build
             ```
         - The service will be running on `http://localhost:5000`.
 
