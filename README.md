@@ -5,6 +5,7 @@
 <br/>
 
 > <p>The Contact File Service offers a seamless solution for users to upload contact information in various formats (CSV, XLSX, XLS, ODS or JSON). Upon submission, the backend processes this data, extracting details such as names, phone numbers, emails, and genders. It compiles this information into a virtual contact file (VCF file) compatible with Android and iOS devices, simplifying contact management.</p>
+> <p>The Contact File Service offers a seamless solution for users to upload contact information in various formats (CSV, XLSX, XLS, ODS or JSON). Upon submission, the backend processes this data, extracting details such as names, phone numbers, emails, and genders. It compiles this information into a virtual contact file (VCF file) compatible with Android and iOS devices, simplifying contact management.</p>
 
 ## 🌐 Deploy
 
@@ -80,6 +81,7 @@ Follow these steps to set up and run the Contact File Backend Service locally:
 
 3. Frontend Installation
     - Follow the steps on https://github.com/CodeChefVIT/contactify-fe to set up the frontend service.
+    - Follow the steps on https://github.com/CodeChefVIT/contactify-frontend to set up the frontend service.
 
 ## ✨ Features
 
@@ -111,7 +113,7 @@ https://documenter.getpostman.com/view/30463796/2s9Ye8euN8
 
 ## 📝 Checkout:
 
--   Contactify Frontend: [https://github.com/CodeChefVIT/contactify-fe](https://github.com/CodeChefVIT/contactify-backend)
+-   Contactify Frontend: [https://github.com/CodeChefVIT/contactify-frontend](https://github.com/CodeChefVIT/contactify-frontend)
 
 ## 🚀 Contributors
 
