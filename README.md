@@ -4,7 +4,7 @@
 <h2 align="center">Contactify</h2>
 <br/>
 
-> <p>The Contact File Service offers a seamless solution for users to upload contact information in various formats (CSV, XLSX, XLS, ODS or JSON). Upon submission, the backend processes this data, extracting details such as names, phone numbers, emails, and genders. It compiles this information into a virtual contact file (VCF file) compatible with Android and iOS devices, simplifying contact management.</p>
+> <p>The Contact File Service offers a seamless solution for users to upload contact information in various formats (CSV, XLSX, XLS, ODS or JSON). Upon submission, the backend processes this data, extracting details such as names, phone numbers, emails, and genders. It compiles this information into a Virtual Contact File (VCF file) compatible with Android and iOS devices, simplifying contact management.</p>
 
 ## 🌐 Deploy
 
