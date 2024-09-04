@@ -2,5 +2,5 @@
 *.pyd
 *.pyo
 __pycache__
-
+venv
 

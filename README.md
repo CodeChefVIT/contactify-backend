@@ -15,14 +15,6 @@
 -   Flask
 -   Docker
 
-## 🖼 Screenshots
-
-<p align="center">
-	<img width="1440" alt="image" src="https://github.com/CodeChefVIT/contactify-fe/blob/master/screenshots/Screenshot%202024-09-04%20224539.png?raw=true">
-	<img width="1440" alt="image" src="https://github.com/CodeChefVIT/contactify-fe/blob/master/screenshots/Screenshot%202024-09-04%20224613.png?raw=true">
-	<img width="1440" alt="image" src="https://github.com/CodeChefVIT/contactify-fe/blob/master/screenshots/Screenshot%202024-09-04%20224631.png?raw=true">
-</p>
-
 ## 🏁 Get Started
 
 Follow these steps to set up and run the Contact File Backend Service locally:
