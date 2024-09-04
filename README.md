@@ -25,11 +25,11 @@ Follow these steps to set up and run the Contact File Backend Service locally:
 
         - Clone the repository.
             ```bash
-            git clone https://github.com/shivamgutgutia/Contactify.git
+            git clone https://github.com/CodeChefVIT/contactify-backend
             ```
         - Navigate to the cloned directory and run
             ```bash
-            cd Contactify
+            cd contactify-backend/backend
             ```
 
     2. **Install Dependencies**
